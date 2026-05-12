@@ -24,7 +24,8 @@ This project analyzes McDonald's sales data using Excel, Power Query, Pivot Tabl
 
 ##  Dashboard Features    
 
-<img width="1891" height="963" alt="Screenshot 2026-05-09 125043" src="https://github.com/user-attachments/assets/16efe4ce-46a0-41d7-bb7c-daa35b012c7d" />
+<img width="1892" height="960" alt="Screenshot 2026-05-12 164513" src="https://github.com/user-attachments/assets/0b9a4ba0-1408-4dfa-8773-d6681818fdf0" />
+
 
 - Category-wise Revenue Analysis
 - Orders by Hour
